@@ -1,4 +1,4 @@
-# Full-stack applikasjonsutvikling
+# IDATT2105 Full-stack applikasjonsutvikling
 ### Assignment 4 frontend
 
 
