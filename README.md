@@ -1,4 +1,6 @@
-# calculator-a4
+# Full-stack applikasjonsutvikling
+### Assignment 4 frontend
+
 
 ## Project setup
 ```
