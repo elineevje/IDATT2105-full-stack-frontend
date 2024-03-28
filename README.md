@@ -1,5 +1,6 @@
 # IDATT2105 Full-stack applikasjonsutvikling
-### Assignment 4 frontend
+#### Frontend of assignment 4 in the course IDATT2105
+
 
 
 ## Project setup
